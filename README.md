@@ -30,6 +30,6 @@ A pre-set example text file was provided.
 
 ___
 *Click on image to see video*
-<a href="https://www.youtube.com/watch?v=psoqoqU6diE&t=125s" target="_blank"><img src="https://img.youtube.com/vi/LixBo2-eKpQ/maxresdefault.jpg" 
+<a href="https://www.youtube.com/watch?v=LixBo2-eKpQ" target="_blank"><img src="https://img.youtube.com/vi/LixBo2-eKpQ/maxresdefault.jpg" 
 alt="Text analysis console app" width="920" height="517" border="0" /></a>
 
