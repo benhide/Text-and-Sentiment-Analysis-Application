@@ -27,3 +27,9 @@ If ‘Option 2’ is selected then a file of pre-written text is opened, read an
 out and displayed on the console. In addition a file of “long words” is created as part of the application
 and saved in the current directory i.e. any words longer than 7 characters.
 A pre-set example text file was provided.
+
+___
+*Click on image to see video*
+<a href="https://www.youtube.com/watch?v=psoqoqU6diE&t=125s" target="_blank"><img src="https://img.youtube.com/vi/LixBo2-eKpQ/maxresdefault.jpg" 
+alt="Three or more console dice game" width="920" height="517" border="0" /></a>
+
